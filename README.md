@@ -10,7 +10,7 @@
 
 ## Run Locally
 
-  - Run This command `https://github.com/developer-rak/nike_shoes_hcj.git`
+  - Run This command `(https://github.com/Shaikammaji896/fsd-mini.git)`
   - You are now in the dev environment and you can play around
 
 ## ✨ Features
@@ -27,3 +27,4 @@
   - Font Awesome Icons
   - AOS Animate on Scroll Library
   - Netlify
+
